@@ -1,0 +1,18 @@
+[
+    {
+        "path": "/",
+        "label": "You's new heré?"
+    },
+    {
+        "path": "/about",
+        "label": "About"
+    },
+    {
+        "path": "/contact",
+        "label": "Generation After"
+    },
+    {
+        "path": "/products",
+        "label": "Product"
+    }
+]
